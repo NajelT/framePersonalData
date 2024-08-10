@@ -1,6 +1,6 @@
 {
-  "name": "farcaster-frames-template",
-  "version": "1.0.0-alpha.19",
+  "name": "framePersonalData",
+  "version": "1.0.0-alpha.0",
   "type": "module",
   "keywords": [
     "farcaster",
